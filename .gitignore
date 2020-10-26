@@ -2,3 +2,10 @@ node_modules
 __tests__
 .circleci
 coverage
+password.js
+features.cvs
+photos.cvs
+products.cvs
+skus.cvs
+styles.cvs
+newrelic_agent.log
